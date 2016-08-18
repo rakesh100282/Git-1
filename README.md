@@ -1,2 +1,2 @@
 # Git
-It will contain the Git document prepared for Team presentation
+Transfered  this Repository  from Vishal's Public account to This newly created orginisation
